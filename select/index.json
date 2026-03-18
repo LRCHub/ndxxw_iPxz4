@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "In the Morning",
   "base_artist": "Mrs. GREEN APPLE",
-  "createdAt": "2026-03-01T04:28:28.812628Z",
+  "createdAt": "2026-03-18T21:37:38.937985Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -139,6 +139,15 @@
       "artist": "Mrs. GREEN APPLE",
       "has_synced": false,
       "path": "select/pl_01_In_the_Morning_Mrs._GREEN_APPLE.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "In the Morning",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/localdb_01_In_the_Morning_Mrs._GREEN_APPLE.txt",
+      "repo_name": "ndxxw_iPxz4"
     }
   ]
 }
